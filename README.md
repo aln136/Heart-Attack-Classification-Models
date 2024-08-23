@@ -24,7 +24,7 @@ The models were primarily evaluated based on two metrics:
 ## Key Findings:
 **Naive Bayes** and **Neural Networks**: Interestingly, both the Naive Bayes and Neural Network models performed equally well in both metrics, achieving the highest accuracy and the lowest MAE among all the models tested. This result indicates that these two models are particularly effective for this dataset.
 
-Note: For the Support Vector Machine (SVM) and Neural Network models, I conducted a more in-depth exploration to optimize their parameters. While this was aimed to enhance the models' effectiveness, it may also have contributed to the comparable performance of these models against the rest. The impact of parameter tuning on model performance is something to keep in mind when comparing results.
+Note: For the Support Vector Machine (SVM) and Neural Network models, I conducted a more in-depth exploration to optimize their parameters. While this was aimed to enhance the models' effectiveness, it may also have affected the comparable performance of these models against the rest.
 
 ## Conclusion
-This project provides insights into how different machine learning models perform on a heart attack prediction task. The surprising tie in performance between Naive Bayes and the Neural Network highlights the potential of simpler models like Naive Bayes in certain contexts, as well as the effectiveness of well-tuned Neural Networks in others.
+This project provides insights into how different machine learning models perform on a heart attack prediction task. In my analysis, the Naive Bayes and Neural Network models performed equally well and achieved the best results according to my performance metrics.
